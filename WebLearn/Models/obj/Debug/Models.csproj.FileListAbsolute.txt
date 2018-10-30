@@ -1,0 +1,9 @@
+G:\学习\MVC\同步学习\WebLearn\Models\bin\Debug\Models.dll
+G:\学习\MVC\同步学习\WebLearn\Models\bin\Debug\Models.pdb
+G:\学习\MVC\同步学习\WebLearn\Models\obj\Debug\Models.csprojAssemblyReference.cache
+G:\学习\MVC\同步学习\WebLearn\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+G:\学习\MVC\同步学习\WebLearn\Models\obj\Debug\Models.dll
+G:\学习\MVC\同步学习\WebLearn\Models\obj\Debug\Models.pdb
+G:\学习\MVC\同步学习\WebLearn\Models\bin\Debug\Microsoft.Analytics.Interfaces.dll
+G:\学习\MVC\同步学习\WebLearn\Models\bin\Debug\Microsoft.Analytics.Types.dll
+G:\学习\MVC\同步学习\WebLearn\Models\obj\Debug\Models.csproj.CopyComplete

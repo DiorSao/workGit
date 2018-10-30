@@ -1,0 +1,13 @@
+G:\学习\MVC\同步学习\WebLearn\BAL\bin\Debug\BAL.dll
+G:\学习\MVC\同步学习\WebLearn\BAL\bin\Debug\BAL.pdb
+G:\学习\MVC\同步学习\WebLearn\BAL\bin\Debug\DAL.dll
+G:\学习\MVC\同步学习\WebLearn\BAL\bin\Debug\Models.dll
+G:\学习\MVC\同步学习\WebLearn\BAL\bin\Debug\DAL.pdb
+G:\学习\MVC\同步学习\WebLearn\BAL\bin\Debug\Models.pdb
+G:\学习\MVC\同步学习\WebLearn\BAL\obj\Debug\BLL.csprojAssemblyReference.cache
+G:\学习\MVC\同步学习\WebLearn\BAL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\学习\MVC\同步学习\WebLearn\BAL\obj\Debug\BLL.csproj.CopyComplete
+G:\学习\MVC\同步学习\WebLearn\BAL\obj\Debug\BAL.dll
+G:\学习\MVC\同步学习\WebLearn\BAL\obj\Debug\BAL.pdb
+G:\学习\MVC\同步学习\WebLearn\BAL\bin\Debug\Microsoft.Analytics.Interfaces.dll
+G:\学习\MVC\同步学习\WebLearn\BAL\bin\Debug\Microsoft.Analytics.Types.dll

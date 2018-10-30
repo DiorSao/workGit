@@ -1,0 +1,9 @@
+G:\学习\MVC\同步学习\WebLearn\DAL\bin\Debug\DAL.dll
+G:\学习\MVC\同步学习\WebLearn\DAL\bin\Debug\DAL.pdb
+G:\学习\MVC\同步学习\WebLearn\DAL\bin\Debug\Models.dll
+G:\学习\MVC\同步学习\WebLearn\DAL\bin\Debug\Models.pdb
+G:\学习\MVC\同步学习\WebLearn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+G:\学习\MVC\同步学习\WebLearn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\学习\MVC\同步学习\WebLearn\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\学习\MVC\同步学习\WebLearn\DAL\obj\Debug\DAL.dll
+G:\学习\MVC\同步学习\WebLearn\DAL\obj\Debug\DAL.pdb
