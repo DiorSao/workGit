@@ -7,3 +7,12 @@ G:\学习\MVC\同步学习\WebLearn\Models\obj\Debug\Models.pdb
 G:\学习\MVC\同步学习\WebLearn\Models\bin\Debug\Microsoft.Analytics.Interfaces.dll
 G:\学习\MVC\同步学习\WebLearn\Models\bin\Debug\Microsoft.Analytics.Types.dll
 G:\学习\MVC\同步学习\WebLearn\Models\obj\Debug\Models.csproj.CopyComplete
+E:\GitHub\workGit\WebLearn\Models\bin\Debug\Models.dll
+E:\GitHub\workGit\WebLearn\Models\bin\Debug\Models.pdb
+E:\GitHub\workGit\WebLearn\Models\bin\Debug\Microsoft.Analytics.Interfaces.dll
+E:\GitHub\workGit\WebLearn\Models\bin\Debug\Microsoft.Analytics.Types.dll
+E:\GitHub\workGit\WebLearn\Models\obj\Debug\Models.csprojAssemblyReference.cache
+E:\GitHub\workGit\WebLearn\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\GitHub\workGit\WebLearn\Models\obj\Debug\Models.csproj.CopyComplete
+E:\GitHub\workGit\WebLearn\Models\obj\Debug\Models.dll
+E:\GitHub\workGit\WebLearn\Models\obj\Debug\Models.pdb

@@ -11,3 +11,16 @@ G:\学习\MVC\同步学习\WebLearn\BAL\obj\Debug\BAL.dll
 G:\学习\MVC\同步学习\WebLearn\BAL\obj\Debug\BAL.pdb
 G:\学习\MVC\同步学习\WebLearn\BAL\bin\Debug\Microsoft.Analytics.Interfaces.dll
 G:\学习\MVC\同步学习\WebLearn\BAL\bin\Debug\Microsoft.Analytics.Types.dll
+E:\GitHub\workGit\WebLearn\BAL\bin\Debug\BAL.dll
+E:\GitHub\workGit\WebLearn\BAL\bin\Debug\BAL.pdb
+E:\GitHub\workGit\WebLearn\BAL\bin\Debug\DAL.dll
+E:\GitHub\workGit\WebLearn\BAL\bin\Debug\Microsoft.Analytics.Interfaces.dll
+E:\GitHub\workGit\WebLearn\BAL\bin\Debug\Microsoft.Analytics.Types.dll
+E:\GitHub\workGit\WebLearn\BAL\bin\Debug\Models.dll
+E:\GitHub\workGit\WebLearn\BAL\bin\Debug\DAL.pdb
+E:\GitHub\workGit\WebLearn\BAL\bin\Debug\Models.pdb
+E:\GitHub\workGit\WebLearn\BAL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\GitHub\workGit\WebLearn\BAL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\GitHub\workGit\WebLearn\BAL\obj\Debug\BLL.csproj.CopyComplete
+E:\GitHub\workGit\WebLearn\BAL\obj\Debug\BAL.dll
+E:\GitHub\workGit\WebLearn\BAL\obj\Debug\BAL.pdb

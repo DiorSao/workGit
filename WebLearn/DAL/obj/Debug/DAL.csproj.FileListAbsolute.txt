@@ -7,3 +7,12 @@ G:\学习\MVC\同步学习\WebLearn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.c
 G:\学习\MVC\同步学习\WebLearn\DAL\obj\Debug\DAL.csproj.CopyComplete
 G:\学习\MVC\同步学习\WebLearn\DAL\obj\Debug\DAL.dll
 G:\学习\MVC\同步学习\WebLearn\DAL\obj\Debug\DAL.pdb
+E:\GitHub\workGit\WebLearn\DAL\bin\Debug\DAL.dll
+E:\GitHub\workGit\WebLearn\DAL\bin\Debug\DAL.pdb
+E:\GitHub\workGit\WebLearn\DAL\bin\Debug\Models.dll
+E:\GitHub\workGit\WebLearn\DAL\bin\Debug\Models.pdb
+E:\GitHub\workGit\WebLearn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\GitHub\workGit\WebLearn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\GitHub\workGit\WebLearn\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\GitHub\workGit\WebLearn\DAL\obj\Debug\DAL.dll
+E:\GitHub\workGit\WebLearn\DAL\obj\Debug\DAL.pdb
