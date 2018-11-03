@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\StudentManagerMVC\BLL\bin\Debug\BLL.dll
+C:\Users\user\Desktop\StudentManagerMVC\BLL\bin\Debug\BLL.pdb
+C:\Users\user\Desktop\StudentManagerMVC\BLL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\StudentManagerMVC\BLL\bin\Debug\Models.dll
+C:\Users\user\Desktop\StudentManagerMVC\BLL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\StudentManagerMVC\BLL\bin\Debug\Models.pdb
+C:\Users\user\Desktop\StudentManagerMVC\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\StudentManagerMVC\BLL\obj\Debug\BLL.dll
+C:\Users\user\Desktop\StudentManagerMVC\BLL\obj\Debug\BLL.pdb
